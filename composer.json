@@ -1,7 +1,7 @@
 {
-    "name": "letyii/yii2-rbac-mongodb",
+    "name": "giicms/yii2-rbac-mongodb",
     "description": "RBAC Mongodb for Yiiframework 2",
-    "homepage": "https://github.com/letyii/yii2-rbac-mongodb",
+    "homepage": "https://github.com/giicms/yii2-rbac-mongodb",
     "keywords": ["yii2","mongodb","rbac"],
     "license": "MIT",
     "minimum-stability": "beta",
@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "letyii\\rbacmongodb\\": ""
+            "giicms\\rbacmongodb\\": ""
         }
     }
 }
