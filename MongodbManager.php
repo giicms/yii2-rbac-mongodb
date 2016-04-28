@@ -5,7 +5,7 @@
  * @license https://github.com/letyii/cms/blob/master/LICENSE
  * @author Ngua Go <nguago@let.vn>
  */
-namespace letyii\rbacmongodb;
+namespace giicms\rbacmongodb;
 use Yii;
 use yii\rbac\BaseManager;
 use yii\mongodb\Connection;
